@@ -33,6 +33,7 @@ Text Segmentation 관련 논문 정리
 |[Recurrent Attentional Topic Model(2017)](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14400)| |
 |[Discovering Discrete Latent Topics with Neural Variational Inference(2017)](https://arxiv.org/abs/1706.00359)| |
 |[A Detailed Survey on Topic Modeling for Document and Short Text Data(2019)](https://arxiv.org/pdf/1904.07695.pdf)| |
+|[감정 딥러닝 필터를 활용한 토픽 모델링 방법론(2019)](http://koreascience.or.kr/article/JAKO201911263062209.page)| |
 
 ## Applications
-|[A Two-Stage Transformer-Based Approach for Variable-Length Abstractive Summarization(2020)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9132692)
+|[A Two-Stage Transformer-Based Approach for Variable-Length Abstractive Summarization(2020)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9132692)| |
