@@ -4,14 +4,14 @@ Text Segmentation 관련 논문 정리
 ## Text Segmentation
 |title|summary|
 |-----|-------|
-|TextTiling: Segmenting Text into Multi-paragraph Subtopic Passages (1997)](https://www.aclweb.org/anthology/J97-1003.pdf_| |
+|TextTiling: Segmenting Text into Multi-paragraph Subtopic Passages (1997)](https://www.aclweb.org/anthology/J97-1003.pdf)| |
 |[A HIDDEN MARKOV MODEL APPROACH TO TEXT SEGMENTATION AND EVENT TRACKING(1998)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=674435)| |
 |[Statistical Models for Text Segmentation(1999)](http://www.cs.cmu.edu/~aberger/pdf/ml.pdf)| |
 |[Advances in Domain Independent Linear Text Segmentation(2000)](https://www.aclweb.org/anthology/A00-2004/)|- C99 알고리즘|
 |[Latent Semantic Analysis for Text Segmentation(2001)](https://www.aclweb.org/anthology/W01-0514/)|- LSA 사용|
 |[A Statistical Model for Domain-Independent Text Segmentation(2001)](https://www.aclweb.org/anthology/P01-1064.pdf)| |
 |[Minimum Cut Model for Spoken Lecture Segmentation(2006)](https://www.aclweb.org/anthology/P06-1004.pdf)| |
-|[Bayesian Unsupervised Topic Segmentation(2008)](https://www.aclweb.org/anthology/D08-1035/| |
+|[Bayesian Unsupervised Topic Segmentation(2008)](https://www.aclweb.org/anthology/D08-1035/)| |
 |[Hierarchical Text Segmentation from Multi-Scale Lexical Cohesion(2009)](https://www.aclweb.org/anthology/N09-1040/)| |
 |[Linear Text Segmentation using Affinity Propagation(2001)](https://www.aclweb.org/anthology/D11-1026/)| |
 |[TopicTiling: A Text Segmentation Algorithm based on LDA(2012)](https://www.aclweb.org/anthology/W12-3307.pdf)| |
