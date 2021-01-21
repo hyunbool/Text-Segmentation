@@ -6,6 +6,7 @@ Text Segmentation 관련 논문 정리
 |-----|-------|
 |[합성곱 신경망을 이용한 On-Line 주제 분리(2016)](http://koreascience.or.kr/article/JAKO201608965832494.page)| |
 |[Text Segmentation as a Supervised Learning Task(2018)](https://arxiv.org/abs/1803.09337)|- text segmentation 위한 wiki dataset 만듦<br/>- 기존에 unsupervised, probalistic하게 해결하던 task를 supervised하게 해결 |
+|[Attention-based Neural Text Segmentation(2018)](https://arxiv.org/pdf/1808.09935.pdf)| |
 |[Scientific Literature Summarization Using Document Structure and Hierarchical Attention Model(2019)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8937799)| |
 |[SECTOR: A Neural Model for Coherent Topic Segmentation and Classification(2019)](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00261)| |
 |[LANGUAGE MODEL PRE-TRAINING FOR HIERARCHICAL DOCUMENT REPRESENTATIONS(2019)](https://arxiv.org/pdf/1901.09128.pdf)|- text segmentation으로 실험 진행|
@@ -36,4 +37,6 @@ Text Segmentation 관련 논문 정리
 |[감정 딥러닝 필터를 활용한 토픽 모델링 방법론(2019)](http://koreascience.or.kr/article/JAKO201911263062209.page)| |
 
 ## Applications
+|title|summary|
+|-----|-------|
 |[A Two-Stage Transformer-Based Approach for Variable-Length Abstractive Summarization(2020)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9132692)| |
