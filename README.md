@@ -27,8 +27,8 @@ Text Segmentation 관련 논문 정리
 |[BeamSeg: A Joint Model for Multi-Document Segmentation and Topic Identification(2019)](https://www.aclweb.org/anthology/K19-1054/)| |
 |[BTS: 한국어 BERT를 사용한 텍스트 세그멘테이션(2019)](http://www.dbpia.co.kr.openlink.sookmyung.ac.kr:8080/journal/articleDetail?nodeId=NODE09301605)| |
 |[Context-Aware Latent Dirichlet Allocation for Topic Segmentation(2020)](https://www.semanticscholar.org/paper/Context-Aware-Latent-Dirichlet-Allocation-for-Topic-Li-Matsukawa/265160ebbe56d2226bc8180330892afa5bb7c535)| |
-|[Chapter Captor: Text Segmentation in Novels(2020)](https://arxiv.org/abs/2011.04163#:~:text=Books%20are%20typically%20segmented%20into,task%20of%20segmenting%20long%20texts.)| |
-|[Books of Hours: the First Liturgical Corpus for Text Segmentation(2020)](https://www.aclweb.org/anthology/2020.lrec-1.97.pdf)| |
+|[Chapter Captor: Text Segmentation in Novels(2020)](https://arxiv.org/abs/2011.04163#:~:text=Books%20are%20typically%20segmented%20into,task%20of%20segmenting%20long%20texts.)| 1.  구텐버그 프로젝트에 포함된 소설을 이용해 text segmentation 데이터셋 구축 <br/>2. Local Method:<br/>* Weighted Overlap Cut(WOC): unsupervised, 각 챕터 내 빈번히 등장하는 단어가 다를것이라는 점에서  착안, 두 문장을 비교해 단어의 밀집도(overlap하는 경우)가 최소화 되는 곳을 Break point로 둠<br/>* BERT for Break Prediction (BBP): supervised, 두 문장을 비교해 두 문장이 연속적인지(같은  챕터인지) 아니면 연속적이지 않은지(break point)를 분류 문제로 계산<br/>3. Global Method using Optimization: segment의 길이를 일정하게 만드는 것이 좋은  segmentation 결과를 보여줌<br/>* 동적 프로그래밍 기법을 사용해 recursive하게 해결 |
+|[Books of Hours: the First Liturgical Corpus for Text Segmentation(2020)](https://www.aclweb.org/anthology/2020.lrec-1.97.pdf)|  |
 |[A Joint Model for Document Segmentation and Segment Labeling(2020)](https://www.aclweb.org/anthology/2020.acl-main.29/)| |
 |[Discourse as a Function of Event: Profiling Discourse Structure in News Articles around the Main Event(2020)](https://www.aclweb.org/anthology/2020.acl-main.478/)| |
 |Improving BERT with Focal Loss for Paragraph Segmentation of Novels(2020)| |
